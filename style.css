@@ -1,12 +1,12 @@
 body {
   font-family: "Microsoft JhengHei", sans-serif;
-  background: #101817;
-  color: #d9eae6;
+  background: #fdf2f6;
+  color: #4a2c3a;
   margin: 0;
 }
 header {
-  background: #06302d;
-  color: #7be3c0;
+  background: #d96c9f;
+  color: #ffffff;
   padding: 2rem;
   text-align: center;
 }
@@ -16,8 +16,8 @@ main {
   padding: 0 1rem;
 }
 section {
-  background: #16211f;
-  border: 1px solid #2c4340;
+  background: #ffffff;
+  border: 1px solid #f0c4d8;
   border-radius: 8px;
   padding: 1rem 1.5rem;
   margin-bottom: 1.5rem;
